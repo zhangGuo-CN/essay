@@ -1,3 +1,5 @@
 transiton 要配合 hover使用
 
 Specified -》 computed（百分比%，继承） -》 actual values
+
+不依赖于布局的 CSS 属性 (例如 display, font-size, line-height)计算值与应用值一样
