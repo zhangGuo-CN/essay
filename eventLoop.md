@@ -8,3 +8,5 @@
   定时触发器线程（setTimeOut()）
   异步 HTTP 请求线程
 ）
+
+非常好的例子：https://www.cnblogs.com/hity-tt/p/6729118.html
